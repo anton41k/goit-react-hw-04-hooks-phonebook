@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/goit-react-hw-04-hooks-phonebook/static/js/main.df1d06fb.chunk.js",
+    "main.js.map": "/goit-react-hw-04-hooks-phonebook/static/js/main.df1d06fb.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-04-hooks-phonebook/static/js/runtime-main.fe74740d.js",
+    "runtime-main.js.map": "/goit-react-hw-04-hooks-phonebook/static/js/runtime-main.fe74740d.js.map",
+    "index.html": "/goit-react-hw-04-hooks-phonebook/index.html"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe74740d.js",
+    "static/js/main.df1d06fb.chunk.js"
+  ]
+}
