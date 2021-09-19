@@ -30,12 +30,12 @@ export default function App() {
         return [contact, ...contacts];
       }
       alert(`${name} is already in contacts`);
+      return [...contacts];
     });
   };
 
   const getVisibleContacts = () => {
     const normalizedFilter = filter.toLowerCase();
-    console.log("getVisibleContacts ", contacts);
     return contacts.filter((contact) =>
       contact.name.toLowerCase().includes(normalizedFilter)
     );
